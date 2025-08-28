@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Hemanshu004
-- 👀 I’m passionate about backend development, DevOps, and web development.
+- 👀 I’m passionate about backend development, GenAI, and web development.
 - 🌱 I’m currently proficient in JavaScript and Python, and learning advanced backend & DevOps skills.
 - 📫 How to reach me: patelhemanshu09@gmail.com
