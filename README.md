@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Hemanshu004
 - 👀 I’m passionate about backend development,and web development.
-- 🌱 I’m currently proficient in JavaScript and Python, and learning advanced backend & DevOps skills and DSA.
+- 🌱 Backend-focused Software Engineer interested in Node.js, PostgreSQL, Redis, and distributed systems. Currently deepening expertise in backend engineering through hands-on projects and daily DSA practice.
 - 📫 How to reach me: patelhemanshu09@gmail.com
